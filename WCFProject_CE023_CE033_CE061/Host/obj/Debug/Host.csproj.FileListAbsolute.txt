@@ -1,0 +1,11 @@
+C:\Users\acer\source\repos\ShoppingCartWCFClient\Host\bin\Debug\Host.exe.config
+C:\Users\acer\source\repos\ShoppingCartWCFClient\Host\bin\Debug\Host.exe
+C:\Users\acer\source\repos\ShoppingCartWCFClient\Host\bin\Debug\Host.pdb
+C:\Users\acer\source\repos\ShoppingCartWCFClient\Host\bin\Debug\ShopingCart.dll
+C:\Users\acer\source\repos\ShoppingCartWCFClient\Host\bin\Debug\ShopingCart.pdb
+C:\Users\acer\source\repos\ShoppingCartWCFClient\Host\bin\Debug\ShopingCart.dll.config
+C:\Users\acer\source\repos\ShoppingCartWCFClient\Host\obj\Debug\Host.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\ShoppingCartWCFClient\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\ShoppingCartWCFClient\Host\obj\Debug\Host.csproj.CopyComplete
+C:\Users\acer\source\repos\ShoppingCartWCFClient\Host\obj\Debug\Host.exe
+C:\Users\acer\source\repos\ShoppingCartWCFClient\Host\obj\Debug\Host.pdb

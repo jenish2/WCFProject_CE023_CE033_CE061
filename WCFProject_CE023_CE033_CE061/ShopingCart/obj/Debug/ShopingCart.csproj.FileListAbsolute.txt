@@ -1,0 +1,7 @@
+C:\Users\acer\source\repos\ShoppingCartWCFClient\ShopingCart\bin\ShopingCart.dll.config
+C:\Users\acer\source\repos\ShoppingCartWCFClient\ShopingCart\bin\ShopingCart.dll
+C:\Users\acer\source\repos\ShoppingCartWCFClient\ShopingCart\bin\ShopingCart.pdb
+C:\Users\acer\source\repos\ShoppingCartWCFClient\ShopingCart\obj\Debug\ShopingCart.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\ShoppingCartWCFClient\ShopingCart\obj\Debug\ShopingCart.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\ShoppingCartWCFClient\ShopingCart\obj\Debug\ShopingCart.dll
+C:\Users\acer\source\repos\ShoppingCartWCFClient\ShopingCart\obj\Debug\ShopingCart.pdb
